@@ -1,5 +1,7 @@
 # Dimensionality Reduction for Classification – FashionMNIST
 
+https://docs.google.com/document/d/15hnWJw4DPSwlYmUqgB83oGnelKz1bR91/edit?usp=sharing&ouid=102730244131695234102&rtpof=true&sd=true
+
 **Course:** IE4476 – Image Processing and Computer Vision  
 **Student:** Jui Bhooshan Gupte   
 
